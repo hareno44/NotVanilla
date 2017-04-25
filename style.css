@@ -182,7 +182,7 @@ nav ul li:hover ul.active {
 }*/
 
 .imagesection{
-  background: url("img/coverpic.jpg") no-repeat center top rgb(134,141,157);
+  background: url("img/coverpic.JPG") no-repeat center top rgb(134,141,157);
   background-size: cover;
   height: calc(100vh);
   margin: 0 0px 0;
@@ -287,7 +287,7 @@ footer ul li{
 
 /* --------- FLORAL --------- */
 .floralimagesection{
-    background: url("img/floralcover.jpg") no-repeat center top rgb(134,141,157);
+    background: url("img/floralcover.JPG") no-repeat center top rgb(134,141,157);
     background-size: cover;
     height: calc(100vh);
     margin: 0 0px 0;
@@ -296,7 +296,7 @@ footer ul li{
 /* ---------- HERBAL ---------- */
 
 .herbalimagesection{
-  background: url("img/herbal.jpg") no-repeat center top rgb(134,141,157);
+  background: url("img/herbal.JPG") no-repeat center top rgb(134,141,157);
   background-size: cover;
   height: calc(100vh);
   margin: 0 0px 0;
@@ -305,7 +305,7 @@ footer ul li{
 /* ---------- TOASTY ---------- */
 
 .toastyimagesection{
-  background: url("img/toasty.jpg") no-repeat center top rgb(134,141,157);
+  background: url("img/toasty.JPG") no-repeat center top rgb(134,141,157);
   background-size: cover;
   height: calc(100vh);
   margin: 0 0px 0;
