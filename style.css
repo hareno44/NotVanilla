@@ -439,9 +439,8 @@ footer ul li{
   }
 
   .bgImage{
-    min-height: 100vh;
+    height: calc(50vh);
     width: 100%;
-    height: auto;
     position: fixed;
     top: 0;
     left: 0;
@@ -452,7 +451,32 @@ footer ul li{
   .imagesection{
     background: url("img/coverpic.JPG") no-repeat center top rgb(134,141,157);
     background-size: cover;
-    height: calc(100vh);
+    height: calc(50vh);
+    margin: 0 0px 0;
+  }
+  /* --------- FLORAL --------- */
+  .floralimagesection{
+      background: url("img/floralcover.JPG") no-repeat center top rgb(134,141,157);
+      background-size: cover;
+      height: calc(50vh);
+      margin: 0 0px 0;
+  }
+
+  /* ---------- HERBAL ---------- */
+
+  .herbalimagesection{
+    background: url("img/herbal.JPG") no-repeat center top rgb(134,141,157);
+    background-size: cover;
+    height: calc(50vh);
+    margin: 0 0px 0;
+  }
+
+  /* ---------- TOASTY ---------- */
+
+  .toastyimagesection{
+    background: url("img/toasty.JPG") no-repeat center top rgb(134,141,157);
+    background-size: cover;
+    height: calc(50vh);
     margin: 0 0px 0;
   }
 }
