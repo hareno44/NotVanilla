@@ -324,8 +324,9 @@ footer ul li{
 }
 
 /* ---------- MEDIA QUERY ---------- */
+@media only screen and (max-width: ){}
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 780px) {
   header {
     height: 75px;
     background-color: black;
@@ -478,5 +479,72 @@ footer ul li{
     background-size: cover;
     height: calc(50vh);
     margin: 0 0px 0;
+  }
+  .floralimg{
+    height: 400px;
+    float: left;
+    width: 100%;
+  }
+  .lineonemobile{
+    height: 400px;
+    width: 100%;
+    margin: 0px;
+    background-color: black;
+    display: inline-block;
+    text-align: right;
+  }
+  .flavorcategory{
+    font-family: 'Oswald', sans-serif;
+    font-size: 48px;
+    margin: 0 20% 0 20%;
+    color: white;
+  }
+  .flavorlist{
+    margin: 0 15% 0 15%;
+  }
+  a{
+    text-decoration: none;
+    font-family: 'Old Standard TT', serif;
+    color: white;
+  }
+  .flavortext{
+    /*margin: 0 10% 0 10%;*/
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+  }
+  .linetwo{
+    height: 400px;
+    width: 100%;
+    margin: 0px;
+    background-color: black;
+    display: inline-block;
+    text-align: left;
+  }
+  .herbalimg{
+    height: 400px;
+    float: right;
+    width: 100%;
+  }
+  .linethree{
+    height: 400px;
+    width: 100%;
+    margin: 0px;
+    background-color: black;
+    display: inline-block;
+    text-align: right;
+  }
+  .linefour{
+    height: 400px;
+    width: 100%;
+    margin: 0px;
+    background-color: black;
+    display: inline-block;
+    text-align: left;
+  }
+  .toastyimg{
+    height: 400px;
+    float: left;
+    width: 100%;
   }
 }
